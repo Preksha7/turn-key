@@ -8,7 +8,7 @@ html,body{
 }
 .navbar-paramount{
     height: 4rem;
-    background-color: slateblue;
+    background-color: #00446D;
 }
 .brand{
     font-weight: 400;
@@ -27,7 +27,7 @@ html,body{
     align-items: center;
 }
 .bg-gradient{
-    background:linear-gradient(45deg,rgb(132, 0, 240),rgb(71, 0, 237));
+    background:linear-gradient(45deg,#00446D,#016aac);
     height: 100%;
     width: 100%;
 }
@@ -52,7 +52,7 @@ html,body{
     border-radius: 0%;
 }
 .btn-purple{
-    background:linear-gradient(270deg,#8400f0,#8e00ed);
+    background:linear-gradient(270deg,#00446D,#016aac);
     color: #fff;
     padding: 0.8rem 1rem 0.8rem 1rem;
     font-weight: 600;
@@ -64,7 +64,7 @@ html,body{
 .forgot-password{
     padding: 0.5rem;
     font-weight: 600;
-    color: #8400f0;
+    color: #00446D;
 }
 .upload-photo{
     width: 28rem;
@@ -153,7 +153,7 @@ html,body{
 
 #heading {
     text-transform: none;
-    color: #673AB7;
+    color: #00446D;
     font-weight: normal
 }
 
@@ -202,13 +202,13 @@ html,body{
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
-    border: 1px solid #673AB7;
+    border: 1px solid #00446D;
     outline-width: 0
 }
 
 #msform .action-button {
     width: 100px;
-    background: #673AB7;
+    background: #00446D;
     font-weight: bold;
     color: white;
     border: 0 none;
@@ -251,14 +251,14 @@ html,body{
 
 .fs-title {
     font-size: 25px;
-    color: #673AB7;
+    color: #00446D;
     margin-bottom: 15px;
     font-weight: normal;
     text-align: left
 }
 
 .purple-text {
-    color: #673AB7;
+    color: #00446D;
     font-weight: normal
 }
 
@@ -283,7 +283,7 @@ html,body{
 }
 
 #progressbar .active {
-    color: #673AB7
+    color: #00446D
 }
 
 #progressbar li {
@@ -341,7 +341,7 @@ html,body{
 
 #progressbar li.active:before,
 #progressbar li.active:after {
-    background: #673AB7
+    background: #00446D
 }
 
 .progress {
@@ -349,7 +349,7 @@ html,body{
 }
 
 .progress-bar {
-    background-color: #673AB7
+    background-color: #00446D;
 }
 
 .fit-image {
